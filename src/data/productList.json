@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Brown Leather Bag",
+      "detail": "Leather Bag for Ladies",
+      "price": 70,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Brown Leather Shoes",
+      "detail": "Leather Shoes for Men",
+      "price": 129,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Lined Leather Hand Bag",
+      "detail": "Leather Hand Bag for Ladies",
+      "price": 91,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Unisex Jeans Pant",
+      "detail": "Unisex Jeans Pant",
+      "price": 47,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Blue Color Coat",
+      "detail": "Blue Color Coat",
+      "price": 95,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Hand Bag for Ladies",
+      "detail": "Hand Bag for Ladies",
+      "price": 89,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product6.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Fashionalable Jacket",
+      "detail": "Fashionalable Jacket",
+      "price": 45,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Short Pant",
+      "detail": "Super Short Pant",
+      "price": 12,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product8.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Fashionalable Ladies Pant",
+      "detail": "Fashionalable Ladies Pant",
+      "price": 39,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product9.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Warm Jersy",
+      "detail": "Warm Jersy",
+      "price": 102,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product10.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Ladies Sandle",
+      "detail": "Super Ladies Sandle",
+      "price": 82,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product11.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Kids Shoe",
+      "detail": "Super Kids Shoe",
+      "price": 55,
+      "imageUrl": "https://raw.githubusercontent.com/hamadzia74/shopping-cart-images/main/product12.jpg"
+    }
+  ]
+}
