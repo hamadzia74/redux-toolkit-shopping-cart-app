@@ -12,7 +12,7 @@ const Footer = () => {
         fontSize: "15px",
       }}
     >
-      © 2022 Copyright : HZShoppingCart.com
+      © 2022 Copyright : hzshoppingcart.com
     </div>
   );
 };

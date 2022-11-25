@@ -4,6 +4,8 @@
   border-radius: 0;
   color: #fff;
   height: 6.5rem;
+  position: fixed;
+  z-index: 9;
 
   .selected {
     i {

@@ -11,7 +11,7 @@ const Cart = () => {
   const dispatch = useDispatch()
 
   return (
-    <div className="cart">
+    <div className="cart" style={{'padding': '5rem 0rem'}}>
       {cartProductData.length > 0 && (
         <div className="cart-product">
           <h3 className="header">Items in cart</h3>

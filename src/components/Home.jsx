@@ -15,7 +15,7 @@ const Home = () => {
   }, [dispatch])
 
   return (
-    <div className="container product-catalogue">
+    <div className="container product-catalogue" style={{'padding-top': '10rem'}}>
       <div className="row">
         {products.data?.map((product) => {
           return (
