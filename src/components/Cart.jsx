@@ -11,7 +11,7 @@ const Cart = () => {
   const dispatch = useDispatch()
 
   return (
-    <div className="cart h-100">
+    <div className="cart">
       {cartProductData.length > 0 && (
         <div className="cart-product">
           <h3 className="header">Items in cart</h3>
